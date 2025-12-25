@@ -22,6 +22,7 @@ This project is specifically designed for the following hardware:
 
 *   **Main Board**: [WaveShare ESP32-S3 7-inch Capacitive Touch LCD (800x480)](https://www.waveshare.com/7inch-capacitive-touch-lcd-f.htm)
 *   **3D-Printed Case**: The STL files for the case can be found in the `/3d-print` directory of this repository.
+*   **Get 3d print file here [MakerWorld](https://makerworld.com/en/models/1858825-waveshare-esp32-s3-lcd-touch-7-case#profileId-1987829)
 
 ## Software & Dependencies
 
